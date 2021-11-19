@@ -3,8 +3,7 @@
 
 
 <h3 align="center">Basic Page</h3>
-![image](https://user-images.githubusercontent.com/34181144/142668151-84860c69-fead-4cc0-83fb-66cd429a6430.png)
-
+ <img src="https://pbs.twimg.com/media/FEkucZAVkAEezVD?format=png&name=900x900" width="40" height="40"/> 
 
 <h3 align="center">Meme with text on it</h3>
 ![image](https://user-images.githubusercontent.com/34181144/142668184-96a18034-1886-46b3-a334-d0920a9f7d7e.png)
