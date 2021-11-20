@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    width:auto;
+    height: 12rem;
+    text-shadow: 0 0 3px #cf0d0d, 0 0 5px #1414df;
+}
+.header h1{
+    margin:4rem 3rem auto;
+}
+img{   
+    width:12rem;
+    height:8rem;
+    margin:1rem 2rem;
+}

@@ -1,0 +1,33 @@
+
+.button{
+    border-radius: 15px;
+    border: 2px solid #000;
+    width:10rem;
+    height: 3rem;
+    background-color: rgb(223, 124, 54);
+    text-shadow: 0 0 3px #cf0d0d, 0 0 5px #1414df;
+    color: rgb(26, 21, 4);
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 3rem 20rem;
+}
+.image{
+    margin:0 10rem;
+    width:30rem;
+    height: 25rem;
+}
+.meme > h2{
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: impact, sans-serif;
+    letter-spacing: 1.3px;
+    margin: 2rem 0;
+    padding: 0 5rem;
+    left:40%;
+    color: rgb(241, 216, 216);
+    text-shadow: 0 0 3px #cf0d0d, 0 0 5px #1414df;
+}
+.bottom{
+    bottom: -30%;
+}
